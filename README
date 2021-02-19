@@ -1,0 +1,23 @@
+###Submission format
+
+Directory named "fundwave_submission" contains
+2 Java classes: Main.java and Part1b.java
+4 input files: a1, a2_data, a2_outputPeriodType, a2_outoutPeriodDate
+
+FOR PART 1(a), run the following 2 command(s) in terminal
+javac Main.java
+Java Main a1
+
+FOR PART 1(a), run the following 2 command(s) in terminal
+javac Main.java
+Java Main a1
+
+FOR PART 1(b), run the following 2 command(s) in terminal
+javac Part1b.java
+Java Part1b a2_data a2_data a2_outputPeriodType a2_outputPeriodDate
+
+
+NOTE: In case you have different file names, then change accordingly
+
+If codepen doesn't contain the directory, you may find same code uploaded here:
+https://github.com/sauravmittal001/fundwave_submission
